@@ -1,0 +1,157 @@
+ul.header-social-icon li a{
+	background:#0000ff;
+}
+.main-header-area:before{
+	background:#0000ff;
+}
+.main-menu-nav ul.menu-nav li:hover a{
+    color:#ccc;
+}
+.main-menu-nav ul.menu-nav li:hover ul.dropdown-menu-items li a:hover{
+    color:#ccc;
+}
+.main-menu-nav ul.menu-nav li .dropdown-mega .mega-single a:hover{
+    color:#ccc;
+}
+.preview-2 .nivo-directionNav a.nivo-prevNav::before, .preview-2 .nivo-directionNav a.nivo-nextNav::before{
+	background:#0000ff;
+}
+.button-default{
+	background:#0000ff;
+}
+.hdream-feature-single .hdream-icon.hdream-Rent, .hdream-feature-single .hdream-icon.hdream-property, .hdream-feature-single .hdream-icon.hdream-Buy, .hdream-feature-single .hdream-icon.hdream-Sale, .about-support-items .hdream-icon.hdream-reliable, .about-support-items .hdream-icon.hdream-support, .about-support-items .hdream-icon.hdream-find, .about-support-items .hdream-icon.hdream-place, .about-support-items .hdream-icon.hdream-luxury, .about-support-items .hdream-icon.hdream-cost{
+	color:#0000ff;
+}
+.main-menu-nav ul.menu-nav li  .dropdown-mega{
+	background:#0000ff;
+}
+.main-menu-nav ul.menu-nav li  ul.dropdown-menu-items{
+	background:#0000ff;
+}
+.sqft-area input[type="text"]{
+	border-bottom: 1px solid #0000ff;
+}
+.chosen-container-single .chosen-single, .chosen-container-multi .chosen-choices{
+	border-bottom: 1px solid #0000ff;
+}
+.search-apartment a{
+	background:#0000ff;
+}
+.price_filter .ui-slider-handle.ui-state-default.ui-corner-all{
+	border: 1px solid #0000ff;
+}
+.ui-slider .ui-slider-range{
+	background:#0000ff;
+}
+.hdream-about-wrapper .play-pro:after{
+	background:#0000ff;
+}
+.special-features-details a{
+	background:#0000ff;
+}
+.property-menu button{
+	background:#0000ff;
+}
+.property-details-inner a{
+	background:#0000ff;
+}
+.hdream-agent-info:before{
+	background:#0000ff;
+}
+.hdream-agent-info:after{
+	border-left: 130px solid #0000ff;
+}
+.hdream-agent-info:after{
+	    border-right: 133px solid #0000ff;
+}
+.single-blog-image .date-blog{
+	background:#0000ff;
+}
+.hdream-footer-area{
+	background:#0000ff;
+}
+.contact-form-quick input[type="email"], .contact-form-quick .message2{
+	background:#0000ff;
+}
+.ec-handle {
+  background-color: #0000ff;
+  border: 1px solid #0000ff;
+}
+ul.naviagation-list-right li a::before {
+	background: #0000ff;
+}
+ul.naviagation-list-right li .dropdown-singlemenu-right, ul.naviagation-list-right li .dropdown-singlemenu-left{
+	background: #0000ff;
+}
+ul.naviagation-list-right li .dropdown-right-menu, ul.naviagation-list-right li .dropdown-left-menu{
+	background: #0000ff;
+}
+.sign-up-button a.sign-up-a{
+	background: #0000ff;
+	color:#fff;
+}
+.blog-search-bx a{
+	background: #0000ff;
+}
+.comment-replay{
+	color:#0000ff;
+}
+.coment-area input[type="submit"]{
+	background: #0000ff;
+}
+.blog-date{
+	background: #0000ff;
+}
+.profile-menu ul.profile-nav li .active{
+	border-right: 4px solid #0000ff;
+}
+.contact-form-nt a{
+	background: #0000ff;
+}
+.signup-profile button[type="submit"], .create-agency-bt button[type="submit"]{
+	background: #0000ff;
+}
+ul.package-menu li a{
+	background: #0000ff;
+}
+.package-single .package-tl{
+	color:#0000ff;
+}
+ul.package-menu li .check-icon, ul.package-menu li .time-icon{
+	color:#0000ff;
+}
+.invoice-wrap a{
+	background: #0000ff;
+}
+.wish-time a{
+	background: #0000ff;
+}
+.sale-round h2:after, .buy-round h2:after, .rent-round h2:after, .property-round h2:after{
+	background:#0000ff;
+}
+.content-error .counter{
+	color:#0000ff;
+}
+.content-error a{
+	background: #0000ff;
+}
+.custom-breadcrumb ol.breadcrumb li a{
+	color:#0000ff;
+}
+.sign-up-head span{
+	color:#0000ff;
+}
+.modal-bar button{
+	background-color: #0000ff;
+    border-color: #0000ff;
+}
+.pagination>.active>a, .pagination>.active>a:focus, .pagination>.active>a:hover, .pagination>.active>span, .pagination>.active>span:focus, .pagination>.active>span:hover{
+	background-color: #0000ff;
+    border-color: #0000ff;
+}
+.mobile-menu-area{
+	background:#0000ff;
+}
+.fotter-bottom-area{
+	background:#0000ff;
+}
